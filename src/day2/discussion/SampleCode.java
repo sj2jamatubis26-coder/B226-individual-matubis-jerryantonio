@@ -8,7 +8,8 @@ public class SampleCode { // class
     }
 }
 
-
+// Syntax -> structure of code
+// Syntax Rule -> Syntax Error
 // Main Method -> starting point of programs execution
 // Print statement (sout) -> it tells the computer to print something
 /*
