@@ -20,7 +20,7 @@ public class ConditionalStatement {
          
          String numberType;
         
-        // Simple-if / if-else / if-else-ef ladder
+        // Simple-if / if-else / if-else-if ladder
 //        if (num > 0){
 //           numberType = "Positive";
 //        }  else if(num < 0){
