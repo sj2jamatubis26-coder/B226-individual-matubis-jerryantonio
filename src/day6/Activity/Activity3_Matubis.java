@@ -10,7 +10,8 @@ public class Activity3_Matubis {
         int age = 20;
         boolean hasValidID = true;
         
-        // Logical AND Operator (&&)               
+        // Logical AND Operator (&&)  
+        // Using if else statement
         if (age >= 18 && hasValidID) {
             System.out.println("Access Granted"); 
         } else {
