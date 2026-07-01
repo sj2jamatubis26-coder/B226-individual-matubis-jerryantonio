@@ -16,6 +16,10 @@ public class Activity7_Matubis {
         
         // Declares an integer array that can store 5 numbers.
         int[] numbers = new int[5];
+        /*  Array name: numbers
+            Type: Int[] ->(integer Array)
+            Size: 5
+        */
         
         // Variable to store the total sum of the numbers.
         int sum = 0;
